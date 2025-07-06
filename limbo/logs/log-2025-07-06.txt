@@ -1,0 +1,10 @@
+14:26:12.253 INFO  Limbo -- Starting server...
+14:26:14.618 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
+14:27:37.439 INFO  Limbo -- Player Ace1Ace4767 connected (/127.0.0.1:46276) [V1_12_2]
+14:28:09.131 INFO  Limbo -- Player Ace1Ace4767 disconnected
+14:28:13.064 INFO  Limbo -- Player Ace1Ace4767 connected (/127.0.0.1:52134) [V1_12_2]
+14:28:54.856 INFO  Limbo -- Player Ace1Ace4767 disconnected
+14:33:10.497 INFO  Limbo -- Player Ace1Ace4767 connected (/127.0.0.1:60896) [V1_12_2]
+14:33:14.081 INFO  Limbo -- Player Ace1Ace4767 disconnected
+14:33:34.715 INFO  Limbo -- Stopping server...
+14:33:34.715 INFO  Limbo -- Server stopped, Goodbye!
